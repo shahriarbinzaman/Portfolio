@@ -27,7 +27,7 @@ const projects = [
   },
   {
     date: "November, 2022",
-    category: "Data Structures",
+    category: "Operating System",
     title: "Dynamic Memory Allocator",
     description:
       "This simulator replicates the C library functions malloc() and free(), managing memory with an ordered list of dynamic partitions. It prioritizes efficient memory allocation and deallocation, finding suitable partitions and merging freed space to optimize utilization and illuminate the intricacies of memory management.",
@@ -57,8 +57,8 @@ const projects = [
   },
   {
     date: "December, 2020",
-    category: "Game Development",
-    title: "Text Based Hangman Game",
+    category: "Python Development",
+    title: "Hangman",
     description:
       "Developed an engaging text-based Hangman game, which provides players with a classic word-guessing challenge in a digital format. With its intuitive interface and intelligent word selection, this game offers an entertaining blend of leisure and learning, all while enhancing players' vocabulary and spelling skills.",
     technologies: [python],
