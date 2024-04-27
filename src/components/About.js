@@ -77,7 +77,7 @@ const About = () => {
                   <h2 className="uppercase text-xs text-black/50 mt-3 leading-5 tracking-wide pb-5 md:pb-8">
                     Education
                   </h2>
-                  <p className={`text-[42px] md:text-7xl ${amiri.className}`}>
+                  <p className="text-[15px] md:text-[16px]">
                     BSc in Computer Science , Minor in Data Science with Science
                     Coop Designation
                   </p>
