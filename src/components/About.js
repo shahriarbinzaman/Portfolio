@@ -25,7 +25,7 @@ const About = () => {
                 className={`text-[36px] sm:text-[72px] md:text-[82px] leading-none pb-20 md:pb-24 ${amiri.className}`}
                 style={{ fontWeight: "normal" }}
               >
-                Hi I'm Shahriar,
+                Hi I'm Shah,
                 <div className="flex justify-center items-end">
                   <div className="text-secondary text-left">
                     <div className="header-embla">
