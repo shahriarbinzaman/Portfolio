@@ -52,7 +52,7 @@ const About = () => {
                   <p className="text-[15px] md:text-[16px]">
                     A Software Developer with a strong
                     programming foundation and experience in Data Science and
-                    analytics, eager to drive innovation in a dynamic team
+                    analytics, eager to drive innovation in dynamic team
                     environments.
                   </p>
                 </div>
