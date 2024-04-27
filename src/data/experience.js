@@ -7,7 +7,7 @@ const experience = [
     details: [
       <p>
         Enhanced data insights by <strong>20%</strong> with{" "}
-        <strong>SQL integration into Power BI</strong> for real-time reporting,
+        SQL integration into Power BI for real-time reporting,
         benefiting <strong>50+ analysts</strong>.
       </p>,
       <p>
