@@ -32,7 +32,7 @@ const experience = [
         experience.
       </p>,
       <p>
-        Formulated <strong>10+</strong> technical specifications outlining
+        Formulated <strong>10+ technical specifications </strong>outlining
         solution construction, ensuring clarity and unified team approach.
       </p>,
       <p>
@@ -59,7 +59,7 @@ const experience = [
         Streamlined PEAS project's database design,{" "}
         <strong>reducing data redundancy by 30%</strong> using MS SQL Server.
       </p>,
-      <p>Utilized design patterns to reduce code duplication by 26%.</p>,
+      <p>Utilized design patterns to <strong>reduce code duplication by 26%</strong>.</p>,
       <p>
         Contributed to development of user-friendly web-based interface for CTC
         project, resulting in <strong>40% increase in user adoption</strong> and
@@ -90,12 +90,12 @@ const experience = [
         .gitlab-ci.yml file which <strong>improved efficiency by 30%</strong>.
       </p>,
       <p>
-        Incorporated Python in Tableau Prep , which saved 50 minutes of work
+        Incorporated Python in Tableau Prep , which <strong>saved 50 minutes</strong> of work
         every day.
       </p>,
       <p>
         Visualized the processed data through graphs in Tableau and R which
-        improved analytical insights by 27 percent.
+        improved analytical insights by <strong>27 percent</strong>.
       </p>,
       <p>
         Published interactive analytics and visualizations in a frontend webpage
