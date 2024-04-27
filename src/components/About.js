@@ -50,15 +50,15 @@ const About = () => {
                     Biography
                   </h2>
                   <p className="text-[15px] md:text-[16px]">
-                    A Software Developer and Data Scientist with a strong
-                    programming foundation and experience in data science and
+                    A Software Developer with a strong
+                    programming foundation and experience in Data Science and
                     analytics, eager to drive innovation in a dynamic team
                     environments.
                   </p>
                 </div>
                 <div>
                   <h2 className="uppercase text-xs text-black/50 mt-3 leading-5 tracking-wide pb-5 md:pb-8">
-                    Services
+                    Expertise
                   </h2>
                   <p className="text-[15px] md:text-[16px]">
                     Software Development
@@ -77,7 +77,7 @@ const About = () => {
                   <h2 className="uppercase text-xs text-black/50 mt-3 leading-5 tracking-wide pb-5 md:pb-8">
                     Education
                   </h2>
-                  <p className="text-[15px] md:text-[16px]">
+                  <p className={`text-[42px] md:text-7xl ${amiri.className}`}>
                     BSc in Computer Science , Minor in Data Science with Science
                     Coop Designation
                   </p>
