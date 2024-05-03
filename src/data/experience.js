@@ -1,50 +1,5 @@
 const experience = [
-    {
-    company:
-      "Canadian Natural Resources Ltd - AMM Applications Improvement Team",
-    duration: "September 2023 - Present",
-    title: "Systems Developer Intern",
-    details: [
-      <p>
-        Enhanced data insights by <strong>20%</strong> with{" "}
-        SQL integration into Power BI for real-time reporting,
-        benefiting <strong>50+ analysts</strong>.
-      </p>,
-      <p>
-        Developed advanced DAX expressions to create intricate real-time
-        calculations and key performance indicators (KPIs).
-      </p>,
-      <p>
-        Achieved a notable <strong>15% efficiency boost</strong> by optimizing
-        workflows and SQL-based conditions in IBM Maximo.
-      </p>,
-      <p>
-        Developed Eclipse BIRT reports, ensuring seamless integration in
-        applications and scheduled email dispatch.
-      </p>,
-      <p>
-        Managed migrations of Maximo packages across environments, maintaining
-        system integrity throughout upgrades.
-      </p>,
-      <p>
-        Directed Agile-driven, user-centric design for{" "}
-        <strong>3 projects</strong>, enhancing functionality and user
-        experience.
-      </p>,
-      <p>
-        Formulated <strong>10+ technical specifications </strong>outlining
-        solution construction, ensuring clarity and unified team approach.
-      </p>,
-      <p>
-        Advanced system functionalities and adaptability by expertly
-        implementing XML for diverse solutions.
-      </p>,
-      <p>
-        Elevated operational efficiency through the strategic development of
-        automation scripts in Java and Python.
-      </p>,
-    ],
-  },
+   
   {
     company:
       "Canadian Natural Resources Ltd - AMM Applications Improvement Team",
