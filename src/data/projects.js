@@ -67,16 +67,6 @@ const projects = [
     image: project4,
     link: "https://gitlab.com/shahriarbin.zaman/flight-paths",
   },
-  {
-    date: "December, 2020",
-    category: "Python Development",
-    title: "Hangman",
-    description:
-      "Developed an engaging text-based Hangman game, which provides players with a classic word-guessing challenge in a digital format. With its intuitive interface and intelligent word selection, this game offers an entertaining blend of leisure and learning, all while enhancing players' vocabulary and spelling skills.",
-    technologies: [python],
-    image: project5,
-    link: "https://gitlab.com/shahriarbin.zaman/hangman",
-  },
 ];
 
 export { projects };
