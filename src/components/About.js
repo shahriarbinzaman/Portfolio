@@ -55,6 +55,7 @@ const About = () => {
                     analytics, eager to drive innovation in dynamic team
                     environments.
                   </p>
+                  <p className="text-[15px] md:text-[16px]"> <strong> University Of Calgary </strong> </p>
                 </div>
                 <div>
                   <h2 className="uppercase text-xs text-black/50 mt-3 leading-5 tracking-wide pb-5 md:pb-8">
