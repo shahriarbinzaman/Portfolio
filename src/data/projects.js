@@ -13,8 +13,20 @@ import cpp from "@/images/cpp.png";
 import python from "@/images/python.png";
 import java from "@/images/java.png";
 import cicd from "@/images/cicd.png";
+import project6 from "@/images/project6.webp";
 
 const projects = [
+  {
+    date: "April, 2023",
+    category: "Software Engineering",
+    title: "Self-Checkout System",
+    description:
+      "This project demonstrates the development of an advanced self-checkout system using Java, designed to streamline retail transactions with efficiency and user-friendliness. Featuring a fully functional graphical user interface (GUI), this system allows users to independently scan, add, and purchase items, enhancing the shopping experience. The architecture was carefully modeled using structural and sequence diagrams to ensure robustness and scalability. Extensive unit testing was conducted with JUnit to maintain high code quality and reliability.",
+    technologies: [java],
+    image: project6,  
+    link: "https://gitlab.com/shahriarbin.zaman/SelfCheckoutSystem",  
+},
+ 
   {
     date: "December, 2022",
     category: "Web Development",
