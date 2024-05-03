@@ -21,7 +21,7 @@ const projects = [
     category: "Software Engineering",
     title: "Self-Checkout System",
     description:
-      "Developed a Java-based self-checkout system with a user-friendly GUI, designed for efficient retail transactions. The system was rigorously modeled and tested using JUnit, ensuring high reliability and performance.",
+      "Developed a Java-based self-checkout system with a user-friendly GUI, optimized for streamlined retail transactions. The system supports advanced product recognition and efficient payment processing, ensuring robust performance. Rigorously modeled and tested using JUnit, it guarantees high reliability and enhanced customer experience.",
     technologies: [java],
     image: project6,  
     link: "https://gitlab.com/shahriarbin.zaman/SelfCheckoutSystem",  
