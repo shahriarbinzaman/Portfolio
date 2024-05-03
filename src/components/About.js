@@ -80,7 +80,7 @@ const About = () => {
                   </h2>
                   <p className="text-[15px] md:text-[16px]">
                     BSc in Computer Science , Minor in Data Science with Science
-                    Coop Designation
+                    Coop Designation.
                   </p>
                   <p></p>
                   <p className="text-[15px] md:text-[16px]"> <strong> University Of Calgary </strong> </p>
