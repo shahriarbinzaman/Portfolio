@@ -64,7 +64,7 @@ const About = () => {
                   <p className="text-[15px] md:text-[16px]">
                     Software Development
                     <br />
-                    Data Analysis
+                    Data Science & Analysis
                   </p>
                 </div>
               </div>
