@@ -50,7 +50,7 @@ const About = () => {
                     Biography
                   </h2>
                   <p className="text-[15px] md:text-[16px]">
-                    A Software Developer with a strong
+                    A Systems Developer with a strong
                     programming foundation and experience in Data Science and
                     analytics, eager to drive innovation in dynamic team
                     environments.
@@ -64,7 +64,7 @@ const About = () => {
                   <p className="text-[15px] md:text-[16px]">
                     Software Development
                     <br />
-                    Data Science
+                    Data Analysis
                   </p>
                 </div>
               </div>
@@ -79,7 +79,7 @@ const About = () => {
                     Education
                   </h2>
                   <p className="text-[15px] md:text-[16px]">
-                    BSc in Computer Science , Minor in Data Science with Science
+                    BSc in Computer Science, with Science
                     Coop Designation.
                   </p>
                   <p></p>
