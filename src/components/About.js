@@ -2,7 +2,7 @@ import React from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 import Image from "next/image";
-import profile from "@/images/profile.png";
+import profile from "@/images/profile.webp";
 import { Amiri } from "next/font/google";
 import { projects } from "@/data";
 
