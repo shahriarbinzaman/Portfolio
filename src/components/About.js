@@ -71,9 +71,11 @@ const About = () => {
               <Image
   src={profile}
   priority
+  quality={75} // Experiment with lower values if needed
   className="md:ml-4 lg:ml-8 h-[32rem] md:h-[42rem] object-contain my-12 lg:my-0 lg:max-w-[600px] lg:flex-1"
   alt="shahriar"
 />
+
 
               <div className="flex flex-col justify-center gap-12 md:gap-16 text-center lg:text-right lg:flex-1 max-w-auto lg:max-w-[215px]">
                 <div>
