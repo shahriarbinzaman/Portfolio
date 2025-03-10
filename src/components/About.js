@@ -69,10 +69,12 @@ const About = () => {
                 </div>
               </div>
               <Image
-                src={profile}
-                className="md:ml-4 lg:ml-8 h-[32rem] md:h-[42rem] object-contain my-12 lg:my-0 lg:max-w-[600px] lg:flex-1 !important"
-                alt="shahriar"
-              />
+  src={profile}
+  priority
+  className="md:ml-4 lg:ml-8 h-[32rem] md:h-[42rem] object-contain my-12 lg:my-0 lg:max-w-[600px] lg:flex-1"
+  alt="shahriar"
+/>
+
               <div className="flex flex-col justify-center gap-12 md:gap-16 text-center lg:text-right lg:flex-1 max-w-auto lg:max-w-[215px]">
                 <div>
                   <h2 className="uppercase text-xs text-black/50 mt-3 leading-5 tracking-wide pb-5 md:pb-8">
