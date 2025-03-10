@@ -31,7 +31,7 @@ const About = () => {
                     <div className="header-embla">
                       <div className="header-embla__viewport" ref={emblaRef}>
                         <div className="header-embla__container">
-                          {["Software Developer", "Data Scientist"].map(
+                          {["Systems Developer", "Data Analyst"].map(
                             (item, index) => (
                               <div key={`why-${index}`}>{item}</div>
                             )
@@ -62,15 +62,15 @@ const About = () => {
                     Expertise
                   </h2>
                   <p className="text-[15px] md:text-[16px]">
-                    Software Development
+                    Software & Systems Development
                     <br />
-                    Data Science & Analysis
+                    Data Science & Analytics
                   </p>
                 </div>
               </div>
               <Image
                 src={profile}
-                className="md:ml-4 lg:ml-8 h-[32rem] md:h-[42rem] object-contain my-12 lg:my-0 lg:max-w-[600px] lg:flex-1"
+                className="md:ml-4 lg:ml-8 h-[32rem] md:h-[42rem] object-contain my-12 lg:my-0 lg:max-w-[600px] lg:flex-1 !important"
                 alt="shahriar"
               />
               <div className="flex flex-col justify-center gap-12 md:gap-16 text-center lg:text-right lg:flex-1 max-w-auto lg:max-w-[215px]">
